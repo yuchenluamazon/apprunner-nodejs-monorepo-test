@@ -7,4 +7,4 @@ build:
 run:
   network: 
       port: 3000
-  command: node index.js
+  command: node server.js
